@@ -8,9 +8,9 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ## Graphisme (session 1)
 
-- [Projet 1](https://github.com/Shweeby/aec-sess1-graph-projet1)
-- [Projet 2](https://github.com/Shweeby/aec-sess1-graph-projet2)
-- [Projet 3](https://github.com/Shweeby/aec-sess1-graph-projet3)
+- [Projet 1 : interface de type Netflix](https://github.com/Shweeby/aec-sess1-graph-projet1)
+- [Projet 2 : graphisme simple pour un salon de coiffure](https://github.com/Shweeby/aec-sess1-graph-projet2)
+- [Projet 3 : site web transactionnel fictif pour la location de chats](https://github.com/Shweeby/aec-sess1-graph-projet3)
 
 ## Intégration (session 1, 2, )
 
