@@ -8,13 +8,13 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ## Graphisme (session 1)
 
-- [Projet 1 : interface de type Netflix](https://github.com/Shweeby/aec-sess1-graph-projet1)
-- [Projet 2 : graphisme simple pour un salon de coiffure](https://github.com/Shweeby/aec-sess1-graph-projet2)
-- [Projet 3 : site web transactionnel fictif pour la location de chats](https://github.com/Shweeby/aec-sess1-graph-projet3)
+- [Projet 1 : Interface de type Netflix](https://github.com/Shweeby/aec-sess1-graph-projet1)
+- [Projet 2 : Graphisme simple pour un salon de coiffure](https://github.com/Shweeby/aec-sess1-graph-projet2)
+- [Projet 3 : Site web transactionnel fictif pour la location de chats](https://github.com/Shweeby/aec-sess1-graph-projet3)
 
 ## Intégration (session 2)
 
-- [Projet 1 : petit quiz en JQuery et Bootstrap 4](https://github.com/Shweeby/aec-sess2-integ-projet1)
+- [Projet 1 : Petit quiz en JQuery et Bootstrap 4](https://github.com/Shweeby/aec-sess2-integ-projet1)
 
 ## Programmation 
 
@@ -25,6 +25,8 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 - [Projet 5 : Formulaire de commande et Quiz diaporama](https://github.com/Shweeby/aec-sess2-prog-projet5)
 
 ## Animation 
+
+- [Projet 3 : Animation d'un logo](https://github.com/Shweeby/aec-sess2-anim-projet3)
 
 # Je suis aussi là !  
 
