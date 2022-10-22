@@ -19,7 +19,7 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ### Programmation 
 
-- [Projet 1 : Formulaire très simple en JavScript](https://github.com/Shweeby/aec-sess2-prog-projet1)
+- [Projet 1 : Formulaire très simple en JavaScript](https://github.com/Shweeby/aec-sess2-prog-projet1)
 - [Projet 2 : Sapin en JavaScript](https://github.com/Shweeby/aec-sess2-prog-projet2)
 - [Projet 3 : Formulaire de commande de pizza en JavaScript](https://github.com/Shweeby/aec-sess2-prog-projet3)
 - [Projet 4 : Jeu avec des dés en Javascript](https://github.com/Shweeby/aec-sess2-prog-projet4)
