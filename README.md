@@ -31,7 +31,7 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ### Projet de production
 
-- [Travail d'équipe](https://github.com/Shweeby/aec-sess2-projet-prod)
+- [Plateforme web développée à plusieurs](https://github.com/Shweeby/aec-sess2-projet-prod)
 
 # Je suis aussi là !  
 
