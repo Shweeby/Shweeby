@@ -2,8 +2,6 @@
 
 # À propos de moi 
 
-Actuellement en fin de formation (AEC en développement web), je suis à la recherche d'un stage (sur Québec ou à distance) pour début janvier 2023 (jusqu'en mars) en tant que développeuse Front-End
-
 Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC, que ce soit en graphisme, en intégration, programmation ou autre :
 
 ### Graphisme 
@@ -14,7 +12,10 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ### Animation 
 
+- [Projet 1 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet1)
+- [Projet 2 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet2)
 - [Projet 3 : Animation d'un logo](https://github.com/Shweeby/aec-sess2-anim-projet3)
+- [Projet 4 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet4)
 
 ### Intégration 
 
