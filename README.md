@@ -15,7 +15,7 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 ### Intégration 
 
 - [Projet 1 : Petit quiz en JQuery et Bootstrap 4](https://github.com/Shweeby/aec-sess2-integ-projet1)
-- [Projet 1 : Site web Dragon Ball en Bootstrap](https://github.com/Shweeby/aec-sess2-integ-projet2)
+- [Projet 2 : Site web Dragon Ball en Bootstrap](https://github.com/Shweeby/aec-sess2-integ-projet2)
 
 ### Programmation 
 
