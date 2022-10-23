@@ -12,10 +12,8 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ### Animation 
 
-- [Projet 1 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet1)
-- [Projet 2 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet2)
-- [Projet 3 : Animation d'un logo](https://github.com/Shweeby/aec-sess2-anim-projet3)
-- [Projet 4 : xxx](https://github.com/Shweeby/aec-sess2-anim-projet4)
+- [Projet 1 : Animation d'un logo](https://github.com/Shweeby/aec-sess2-anim-projet1)
+- [Projet 2 : Animation avec Adobe Premiere, After Effect et Adobe Audition](https://github.com/Shweeby/aec-sess2-anim-projet2)
 
 ### Intégration 
 
@@ -32,7 +30,7 @@ Vous trouverez ici quelques projets que j'ai réalisés dans le cadre de mon AEC
 
 ### Projet de production
 
-- [Plateforme web développée à plusieurs](https://github.com/Shweeby/aec-sess2-projet-prod)
+- [Plateforme web spots de ski](https://github.com/Shweeby/aec-sess2-projet-prod)
 
 # Je suis aussi là !  
 
